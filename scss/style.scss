@@ -161,7 +161,7 @@ body {
     }
 }
 
-@media (max-width: 376px) {
+@media (max-width: 375px) {
     
     body {
         min-width: 100vw;
@@ -254,37 +254,44 @@ body {
 .work {
     background-image: url("../images/icon-work.svg"), 
     linear-gradient(180deg, $color-work 0%, $color-work 51%, $dark-blue 51%, $dark-blue 100%);
-    // background-color: $color-work;
 }
 
 .play{
     background-image: url("../images/icon-play.svg"),
     linear-gradient(180deg, $color-play 0%, $color-play 51%, $dark-blue 51%, $dark-blue 100%);
-    // background-color: $color-play;
 }
 
 .study{
     background-image: url("../images/icon-study.svg"),
     linear-gradient(180deg, $color-study 0%, $color-study 51%, $dark-blue 51%, $dark-blue 100%);
-    // background-color: $color-study;
 }
 
 .exercise{
     background-image: url("../images/icon-exercise.svg"),
     linear-gradient(180deg, $color-exercise 0%, $color-exercise 51%, $dark-blue 51%, $dark-blue 100%);
-    // background-color: $color-exercise;
 }
 
 .social{
     background-image: url("../images/icon-social.svg"),
     linear-gradient(180deg, $color-social 0%, $color-social 51%, $dark-blue 51%, $dark-blue 100%);
-    // background-color: $color-social;
 }
 
 .self-care{
     background-image: url("../images/icon-self-care.svg"),
     linear-gradient(180deg, $color-selfcare 0%, $color-selfcare 51%, $dark-blue 51%, $dark-blue 100%);
-    // background-color: $color-selfcare;
+}
+
+.footer { 
+    font-size: 11px; 
+    text-align: center; 
+    position: fixed;
+    left: 0;
+    bottom: 10px;
+    width: 100%;
+
+    a {
+        color: hsl(228, 45%, 44%);
+    }
 }
 
 

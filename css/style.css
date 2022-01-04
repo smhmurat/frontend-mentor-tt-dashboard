@@ -128,7 +128,7 @@ body {
   color: #bdc1ff;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 375px) {
   body {
     min-width: 100vw;
     min-height: 100vh;
@@ -227,6 +227,18 @@ body {
 
 .self-care {
   background-image: url("../images/icon-self-care.svg"), linear-gradient(180deg, #f1c65b 0%, #f1c65b 51%, #1c1f4a 51%, #1c1f4a 100%);
+}
+
+.footer {
+  font-size: 11px;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+}
+.footer a {
+  color: #3e52a3;
 }
 
 /*# sourceMappingURL=style.css.map */
