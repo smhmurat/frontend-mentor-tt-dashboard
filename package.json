@@ -1,0 +1,23 @@
+{
+  "name": "tt-dashboard",
+  "version": "1.0.0",
+  "description": "![Design preview for the Time tracking dashboard coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smhmurat/frontend-mentor-tt-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smhmurat/frontend-mentor-tt-dashboard/issues"
+  },
+  "homepage": "https://github.com/smhmurat/frontend-mentor-tt-dashboard#readme",
+  "devDependencies": {
+    "sass": "^1.45.1"
+  }
+}
