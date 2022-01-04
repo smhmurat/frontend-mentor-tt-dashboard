@@ -7,6 +7,10 @@ I completed the Frontend Mentor Time Tracking Dashboard challenge. I spent more 
 - [Links](#links)
 - [My Process](#my-process)
 - [What I Learned](#what-I-learned)
+- [Continued Development](#continued-development)
+- [Useful Resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#Acknowledgments)
 
 ## Overview
 The application I have made uses the data saved as general json to display daily, weekly and monthly. It shows the interaction in case of hovering over the cards.
